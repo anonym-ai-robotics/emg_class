@@ -200,12 +200,12 @@ jupyter notebook emg_classification_abdullah.ipynb
 
 ### Comparison with Baselines
 
-| Method | Accuracy | Parameters |
-|--------|----------|-----------|
-| Two-Stage Transfer (Proposed) | **X%** | ~Y |
-| Direct Training Baseline | X-19% | Z |
-| Gesture-to-Group Mapping | X-31% | Z' |
-| State-of-the-art CNN | X-δ% | Z'' |
+| Method | Accuracy |
+|--------|----------|
+| Two-Stage Transfer (Proposed) | **X%** |
+| Direct Training Baseline | X-19% |
+| Gesture-to-Group Mapping | X-31% |
+
 
 **Key Achievements:**
 - ✅ 19% improvement over direct training
@@ -297,10 +297,10 @@ Please submit pull requests or issues for discussions.
 If you use this code in your research, please cite the related paper:
 
 ```bibtex
-@inproceedings{YourAuthor2026,
+@inproceedings{Saati2026,
   title={Two-Stage Transfer Learning for EMG-Based Grasp Classification in Prosthetic Control},
-  author={Your Author(s)},
-  booktitle={MICCAI 2026},
+  author={T. Saati, C. Albitar, F. Zabehollahi},
+  booktitle={MICCAI Workshops 2026},
   year={2026}
 }
 ```
