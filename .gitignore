@@ -1,0 +1,8 @@
+# Ignore everything, but allow Python files and .h5 files anywhere
+*
+!*/
+!.gitignore
+!*.py
+!*.h5
+!**/*.py
+!**/*.h5
